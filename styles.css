@@ -1,0 +1,281 @@
+*{
+color:#E7DFD2;
+font-size:18px;
+}
+body{
+ position:relative;
+overflow:auto;
+margin:0px;
+/*background-color:#E7DFD2;*/
+background-color:#3B444B;
+}
+.wrapper{
+position:relative;
+max-width:100%;
+overflow:hidden;
+}
+.navForTelephoneT1{
+position:absolute;
+max-height:200px;
+right:0px;
+padding:10px;
+background-color:white;
+border:1px solid black;
+border-radius:5px;
+z-index:7;
+display:none;
+}
+.btnNavT1{
+ position:relative;
+ width:30px;
+ padding:5px;
+ background-color:white;
+display:none;
+}
+.decorationT1{
+ position:relative;
+ width:100%;
+ height:5px;
+ margin-bottom:3px;
+ background-color:black;
+}
+.linkBlockT1{
+position:relative;
+display:flex;
+flex-direction:column;
+}
+.linkT1{
+position:relative;
+margin-bottom:5px;
+color:black;
+}
+.navigation{
+position:relative;
+max-width:100%;
+padding-top:20px;
+padding-bottom:20px;
+background-color:black;
+z-index:1;
+}
+.adaptiveImg{
+position:relative;
+max-width:300px;
+margin:0px auto;
+border-radius:50%;
+margin-bottom:10px;
+display:none;
+overflow:hidden;
+}
+.a{
+position:relative;
+width:100%;
+border-radius:50%;
+}
+.navLinkX{
+position:relative;
+margin-right:5px;
+display:flex;
+}
+#navAlignCenter{
+align-items:center;
+}
+#content1AlignCenter{
+justify-content:space-between;
+align-items:center;
+}
+.blockXBetween{
+position:relative;
+display:flex;
+justify-content:space-between;
+}
+.navTitle{
+position:relative;
+margin-left:5px;
+letter-spacing:1px;
+font-size:20px;
+font-weight:bold;
+color:white;
+text-shadow:2px 2px green;
+}
+.blockX{
+position:relative;
+display:flex;
+}
+.blockY{
+ position: relative;
+}
+#mb{
+ padding-bottom:10px;
+ background-color:#2B333B;
+}
+.navLink{
+position:relative;
+margin-left:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:5px;
+padding-bottom:5px;
+text-decoration:none;
+border-radius:15px;
+border:1px solid black;
+transition:0.5s;
+}
+.navLink:hover{
+border:1px solid white;
+}
+.container11{
+position:relative;
+height:auto;
+overflow:auto;
+}
+.container{
+position:relative;
+max-width:1000px;
+margin:0px auto;
+ margin-top:10px;
+padding-left:20px;
+padding-right:20px;
+z-index:3;
+}
+.blockYContainer{
+position:relative;
+display:flex;
+flex-direction:column;
+}
+.contentBlock1{
+position:relative;
+margin-right:10px;
+}
+.content1Title{
+position:relative;
+margin-bottom:10px;
+font-size:24px;
+font-weight:bold;
+}
+.content1Text{
+position:relative;
+max-width:500px;
+margin-bottom:10px;
+}
+.content1Btn{
+position:relative;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:5px;
+padding-top:5px;
+border:none;
+border-radius:5px;
+color:white;
+background-color:green;
+}
+.imgBlock{
+position:relative;
+max-width:300px;
+padding:30px;
+background-color:black;
+}
+img{
+position:relative;
+max-width:100%;
+}
+.blockYSkill{
+position:relative;
+margin-bottom:10px;
+padding:5px;
+display:flex;
+flex-direction:column;
+}
+.textSkills{
+position:relative;
+font-weight:bold;
+}
+.mySkillsSub{
+position:relative;
+margin-bottom:5px;
+font-size:20px;
+font-weight:bold;
+border-bottom:1px solid #E7DFD2;
+}
+#content1AlignCenter{
+ align-items:start;
+}
+@media(max-width:451px){
+.content1Text{
+font-size:16px;
+}
+.content1Btn{
+font-size:16px;
+}
+.content1Title{
+font-size:20px;
+}
+.mySkillsSub{
+font-size:18px;
+}
+}
+@media(max-width:1200px){
+.imgBlock{
+max-width:250px;
+}
+}
+@media(max-width:900px){
+.imgBlock{
+max-width:200px;
+}
+}
+@media(max-width:708px){
+.imgBlock{
+display:none;
+}
+.adaptiveImg{
+display:block;
+}
+.blockYContainer{
+margin:0px auto;
+}
+.navLinkX{
+display:none;
+}
+.btnNavT1{
+display:block;
+}
+}
+@media(min-width:709px){
+.navForTelephoneT1{
+display:none;
+}
+.navLinkX{
+display:flex;
+}
+}
+.footer{
+position:relative;
+max-width:100%;
+padding:3px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+background-color:black;
+}
+.contactText{
+position:relative;
+margin:0px auto;
+color:white;
+}
+.contactBlockFooter{
+position:relative;
+margin:0px auto;
+display:flex;
+flex-wrap:wrap;
+}
+.contactLinkFooter{
+position:relative;
+ max-width:40px;
+ margin-left:10px;
+color:white;
+}
+.contactFooterIcon{
+ position:relative;
+ width:100%;
+}
