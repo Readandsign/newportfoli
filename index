@@ -1,0 +1,103 @@
+<!Doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<title> portfolio </title>
+</head>
+<body>
+<div class="wrapper">
+ <div class="blockY" id="mb">
+<nav class="navigation">
+<div class="blockXBetween" id="navAlignCenter">
+<div class="navTitle"> Portfolio </div>
+<div class="navLinkX">
+<a class="navLink" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/ll1sam1ll/?gshid=OGY3MTU3OGY1Mw%3D%3D">Instagram</a>
+<a class="navLink" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/profile.php?id=100032892807177"> Facebook </a>
+<a class="navLink" rel="noopener noreferrer" target="_blank" href="https://t.me/+onGFRTUM9e0zZWQy"> Telegram </a>
+</div>
+<div class="btnNavT1">
+ <div class="decorationT1"> </div>
+ <div class="decorationT1"> </div>
+ <div class="decorationT1"> </div>
+</div>
+</div>
+</nav>
+<aside class="navForTelephoneT1">
+<div class="linkBlockT1">
+<a class="linkT1" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/ll1sam1ll/?gshid=OGY3MTU3OGY1Mw%3D%3D"> Instagram </a>
+<a class="linkT1" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/profile.php?id=100032892807177"> Facebook </a>
+<a class="linkT1" rel="noopener noreferrer" target="_blank" href="https://t.me/+onGFRTUM9e0zZWQy"> Telegram </a>
+</div>
+</aside>
+</div>
+<div class="container11">
+<header class="container">
+<div class="blockX" id="content1AlignCenter">
+<div class="blockYContainer">
+<aside class="contentBlock1">
+<div class="adaptiveImg">
+<img class="a" src="1684261346198.jpg">
+</div>
+<div class="content1Title"> Hi, I am Sam. </div>
+<div class="content1Text">
+I create the appearance of the website in the browser
+</div>
+<button class="content1Btn"> My projects </button>
+<div class="content1Text"> FrontEnd Web-Developer </div>
+<div class="blockYSkill">
+<div class="mySkillsSub"> My Skills </div>
+<li class="textSkills"> HTML5 </li>
+<li class="textSkills"> CSS3 </li>
+<li class="textSkills"> JavaScript </li>
+</div>
+<div class="mySkillsSub"> Experience </div>
+<div class="content1Text">
+I am a front-end web developer. <br><br>
+HTML5 <br>
+CSS3 <br>
+JavaScript (pure) <br><br>
+I create the appearance of the site that works in the browser. I don't do servers, but I do hosting if you like. I did not work in companies, but I did various work on website layout. I do very well. I love my career. Now I will tell you about my work process 
+<br>
+<br>
+1) I work remotely (online).
+<br>
+<br>
+2) You must send me the design of your site via gmail (a picture that defines the look of your future site), after which we will agree on a price, and only with your consent, I begin to make up your site according to the design that you sent me. 
+<br>
+<br>
+3) Work can take from one to several days. It depends on the complexity of your design and the number of pages.
+<br>
+<br>
+4) At the end of each working day, I will send you a new result of my work via gmail (picture or video)
+<br>
+<br>
+5) I will notify you when the work is completed by sending the final result (picture, video), after which you will make payment to my online account and I will send you documents that will help your web page appear in the browser. It will exist only on your computer, and if you want it to be on the Internet, then you just need to tell me about it, after that I will explain to you what my work (hosting) should be and if you agree, I will host, at the end I will send you a link that will lead to your site, and if not, then you can contact the server developer by sending him the documents that I sent you.
+</div>
+</aside>
+</div>
+<div class="imgBlock">
+<img src="1684261346198.jpg">
+</div>
+</div>
+</header>
+ <div class="footer">
+<div class="contactText"> Contact me to order a website </div>
+<div class="contactBlockFooter">
+<a class="contactLinkFooter" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/ll1sam1ll/?gshid=OGY3MTU3OGY1Mw%3D%3D">
+<img class="contactFooterIcon" src="1693521691946.png">
+</a>
+<a class="contactLinkFooter" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/profile.php?id=100032892807177">
+<img class="contactFooterIcon" src="1693521790902.png">
+</a>
+<a class="contactLinkFooter" rel="noopener noreferrer" target="_blank" href="https://t.me/+onGFRTUM9e0zZWQy">
+<img class="contactFooterIcon" src="1693521790888.png">
+</a>
+</div>
+</div>
+</div>
+</div>
+<script src="app.js"> </script>
+</body>
+</html>
