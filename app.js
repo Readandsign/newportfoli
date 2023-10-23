@@ -1,14 +1,10 @@
 const btnNavT1 = document.querySelector(".btnNavT1");
 const navT1 = document.querySelector(".navForTelephoneT1");
 const container11 = document.querySelector(".container11");
-const myProjectBtn = document.querySelector(".content1Btn");
 const nav = document.querySelector(".navigation");
 const footer = document.querySelector(".footer");
 let count = 0;
 
-myProjectBtn.onclick = function(){
- window.location.replace("https://www.youtube.com/");
-}
 function ekran(){
  container11.style.height = window.innerHeight - nav.offsetHeight - 10 + "px";
 if(window.innerWidth > 708){
